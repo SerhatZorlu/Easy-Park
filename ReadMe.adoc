@@ -13,13 +13,13 @@ Please describe the steps to install this project.
 
 For example:
 
-1. Open this file
-2. Edit as you like
-3. Release to the World!
+1. Open EasyPark.ino file
+2. Download
+3. Create a dashboard on the Arduino Cloud and link the variable in code
 
 == Step 2: Assemble the circuit
 
-Assemble the circuit following the diagram layout.png attached to the sketch
+Assemble the circuit following the diagram EasyParkSchematics.png attached to the sketch
 
 == Step 3: Load the code
 
@@ -29,8 +29,8 @@ Upload the code contained in this sketch on to your board
 
 ....
  sketch123                => Arduino sketch folder
-  âââ sketch123.ino       => main Arduino file
-  âââ schematics.png      => (optional) an image of the required schematics
+  âââ EasyPark.ino       => main Arduino file
+  âââ EasyParkSchematics.png      => (optional) an image of the required schematics
   âââ layout.png          => (optional) an image of the layout
   âââ ReadMe.adoc         => this file
 ....
